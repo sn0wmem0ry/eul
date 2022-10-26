@@ -41,7 +41,7 @@
 "cpu.system" = "ระบบ";
 "cpu.user" = "ผู้ใช้";
 "cpu.nice" = "Nice";
-"cpu.waiting_status_report" = "กำลังรอที่จะรายงานครั้งแรก";
+"cpu.waiting_status_report" = "กำลังรอที่จะรายงาน";
 
 // MARK: Fan
 "fan" = "พัดลม";
