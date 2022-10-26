@@ -284,6 +284,24 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "daimajia",
+      "name": "代码家",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2503423?v=4",
+      "profile": "https://github.com/daimajia",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "bitigchi",
+      "name": "Emir Sarı",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2769571?v=4",
+      "profile": "https://github.com/bitigchi",
+      "contributions": [
+        "translation"
+      ]
     }
   ]
 }
